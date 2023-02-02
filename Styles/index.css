@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+  }
+  
+  nav a {
+    display: inline-block;
+    margin-left: 1em;
+    text-decoration: none;
+    color: black;
+  }
+  
+  section {
+    padding: 1em;
+  }
+  
+  section#about {
+    background-color: lightgray;
+  }
+  
+  section#projects {
+    background-color: lightyellow;
+  }
+  
+  section#contact
+  
